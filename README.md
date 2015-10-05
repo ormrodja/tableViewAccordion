@@ -1,2 +1,2 @@
 # tableViewAccordion
-UITableViewController Sections Expand &amp; Collapse for Swift 2.0
+UITableViewController expandable and collapsible sections for Swift 2.0
